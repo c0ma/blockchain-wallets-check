@@ -24,3 +24,21 @@ while(1):
 
 ```
 The wallets are not mine, just took some random.
+
+Output:
+
+```
+[+] Wallet: 16Hz84sGs3xr4vLJZfPjQJAfFso9p5MvR got 1 transactions
+[+] Wallet balance: 0.03190556 BTC
+
+[+] Wallet: 16buJrpoSNkqmGsjiw5Diws8uYnxEySHSp got 1 transactions
+[+] Wallet balance: 0.03743655 BTC
+
+[+] Wallet: 16NivQ5sVKJ3kHatP51b44EZFMxMe12RaS got 1 transactions
+[+] Wallet balance: 0.02361067 BTC
+
+[+] Wallet: 1AdUw4i68CFF3m2zYrjmfhcH4ortjbwVzB got 2 transactions
+[+] Wallet balance: 0 BTC
+
+[+] Sleeping for 1 hour before checking again
+```
